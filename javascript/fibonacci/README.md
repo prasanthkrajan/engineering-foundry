@@ -1,27 +1,8 @@
-# Fibonacci Exercise
+# Exploring Fibonacci
 
-This exercise is about finding the `n`th Fibonacci number in JavaScript.
+Using various approaches and experimenting how calculating Fibonacci sequence can be made efficient
 
-The goal is to:
 
-1. Start with a brute-force solution and make it work correctly.
-2. Understand why the naive approach becomes slow for larger inputs.
-3. Improve the solution so it is more efficient.
+## The Brute Force way (using Recursion)
 
-## What You Will Explore
-
-- How the Fibonacci sequence works.
-- How to calculate the `n`th value step by step.
-- The difference between a simple working solution and an optimized one.
-
-## Suggested Approach
-
-Begin with a straightforward brute-force implementation, even if it is not fast. Once the basic version works, refactor it to use a more efficient approach such as iteration or memoization.
-
-## Outcome
-
-By the end of the exercise, you should have:
-
-- A correct brute-force implementation.
-- A faster optimized implementation.
-- A clear understanding of the tradeoff between simplicity and performance.
+The goal is to make it work first, and then optimize later. You would notice the brute force works, and does the calculation as expected, but as the `n`th number gets bigger, it takes a longer time to compute. This can be optimized and made better.

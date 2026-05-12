@@ -16,4 +16,4 @@ console.log(fib(1)) //1
 console.log(fib(2)) //1
 console.log(fib(6)) //8
 console.log(fib(10)) //55
-
+console.log(fib(60)) //1548008755920
